@@ -3,7 +3,7 @@ This project features a beautifully designed, responsive login page, implemented
 
 ## Features
 
-*Responsive Design: This login page is built with mobile-first design principles in mind. It uses Bootstrap for responsive layouts, making it look great on screens of all sizes.
+* Responsive Design: This login page is built with mobile-first design principles in mind. It uses Bootstrap for responsive layouts, making it look great on screens of all sizes.
 
 * Custom CSS Styles: The page includes custom CSS styling for an impressive visual aesthetic. It uses a combination of gradients and images for the background, and includes subtle animations to improve user interaction.
 
